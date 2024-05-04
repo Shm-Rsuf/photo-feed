@@ -6,7 +6,7 @@ const Logo = () => {
     <Link href='/'>
       <Image
         className='max-w-[100px] md:max-w-[165px]'
-        src={"/lws_logo.png"}
+        src='/lws_logo.png'
         alt='Logo Image'
         width={100}
         height={165}
@@ -17,4 +17,3 @@ const Logo = () => {
 };
 
 export default Logo;
-// "/((?!api|assets|.*\\..*|_next).*)"
