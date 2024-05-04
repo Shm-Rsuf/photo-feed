@@ -17,3 +17,4 @@ const Logo = () => {
 };
 
 export default Logo;
+// "/((?!api|assets|.*\\..*|_next).*)"
